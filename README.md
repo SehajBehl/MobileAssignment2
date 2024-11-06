@@ -1,1 +1,4 @@
 # MobileAssignment2
+
+
+This assignment is about creating a location finder application to determine the longitude and latitude of 100 locations. It is built through Java, and the SQLite database as the backend for storing the locations. To use the application, the user enters any address into the address bar, they enter the location and they have various options to choose from. They can use the “Calculate” button to calculate the latitude and longitude. They can use the “Add” button to enter the location into the database and make it display in list view. They update the location in the database by selecting the location, and entering in a new location in the address bar, and then clicking the “Update” button. Lastly, they can delete the location from the database and list view by clicking the “Delete” button on a location. 
